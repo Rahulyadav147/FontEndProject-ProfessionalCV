@@ -14,7 +14,9 @@ body {
   padding-bottom: 2cm;
   height: 5mm;
  }
-
+.rounded-image{
+  border-radius: 50%;
+}
 .topmenu {
   color: lightgray;
   margin: 10px;
