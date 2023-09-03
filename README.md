@@ -7,9 +7,11 @@ This is Rahul Yadav's personal portfolio website, showcasing his profile, skills
 
 
 ## Snapshot
-- ![snap](About.jpg)
-- ![snap](Projects.jpg)
-- ![snap](recommendations.jpg)
+- ![snap](About.png)
+- ![snap](Skills.png)
+- ![snap](Projects.png)
+- ![snap](Recommendations.png)
+- ![snap](LeaveRecommendations.png)
 
 ## Demo
 
