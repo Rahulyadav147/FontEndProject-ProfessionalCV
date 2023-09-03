@@ -29,7 +29,7 @@ This is Rahul Yadav's personal portfolio website, showcasing his profile, skills
   
 ## Connect 
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-yadav-4ba373231/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulyadav693/)
 
 
 
